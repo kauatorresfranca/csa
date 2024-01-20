@@ -1,0 +1,55 @@
+header{
+    background-color: rgb(167, 15, 15);
+    position: sticky;
+    top:0;
+    left:0;
+    z-index: 1000;
+}
+header h1{
+    color: #fff;
+}
+
+header img{
+    width: 70px;
+}
+
+.card-body a{
+    background-color: rgba(167, 15, 15);
+    border: none;
+}
+.card-body a:hover{
+    background-color: rgb(206, 79, 79);
+}
+
+footer{
+    background-color: rgba(167, 15, 15);
+    padding: 30px;
+    color: #fff;
+    margin-top: 60px;
+}
+
+.nav-link{
+    color: #fff;
+    text-align: center;
+}
+
+.navbar-nav .nav-link.active{
+    color: #fff;
+    background-color: rgb(206, 79, 79);
+}
+
+section{
+    padding-top: 90px;
+}
+
+.carousel{
+    padding-top: 90px;
+}
+
+.nav-link:hover{
+    color: rgb(206, 79, 79);
+}
+
+.col-sm-12{
+    margin-top: 30px;
+}
